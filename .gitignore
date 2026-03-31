@@ -1,0 +1,17 @@
+# 忽略隐私文件（必须！）
+.env
+
+# 忽略 Python 缓存
+__pycache__/
+*.py[cod]
+
+# 忽略虚拟环境
+venv/
+.venv/
+
+# 忽略前端依赖
+node_modules/
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
